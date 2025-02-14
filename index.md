@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Documenting the learning: Welcome to my blog
 ---
 
